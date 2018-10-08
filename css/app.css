@@ -3,5 +3,18 @@ img{
 }
 #logo{
 
-  width: 40%;
+  width: 30%;
+}
+#slogan{
+  color: #ffffff;
+  text-align: left;
+}
+p{
+  text-align: justify;
+}
+.personal1{
+margin-top: 100px;
+}
+.personal{
+margin-top: 25px;
 }
